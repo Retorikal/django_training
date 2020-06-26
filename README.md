@@ -1,2 +1,3 @@
 # django_training
-Latian django
+Latian django lagi
+
